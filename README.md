@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @wekesaryan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ON TWITTER @wekesaryan1
+            ABOUT ME 
 
-<!---
-wekesaryan/wekesaryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m wekesa ryan.A full-stack developer with experience in HTML,js,css,scss,php,react,python and java.
+- 👀 I’m a tech  enthusiastit,Love programming.Currently available for any programming or pen testing releted project collaboration.
+  
+
+
+![header](https://github.com/wekesaryan/wekesaryan/assets/113826742/4784760a-f1d6-4d3e-8b24-8b8f30e2ead9)
+
+
+socials
+https://twitter.com/wekesaryan1    https://www.linkedin.com/in/ryan-wekesa254/      
