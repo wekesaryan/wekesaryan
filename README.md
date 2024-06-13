@@ -1,4 +1,6 @@
-![twitter](https://github.com/wekesaryan/wekesaryan/assets/113826742/96e40817-a970-4b0a-98b5-791e601bd6cd)            ABOUT ME 
+                                              ABOUT ME                                         
+  
+  
 
 Hi, I’m wekesa ryan.A full-stack developer with experience in HTML,js,css,scss,php,react,python and java.
 - 👀 I’m a tech  enthusiastit,Love programming.Currently available for any programming or pen testing releted project collaboration.
