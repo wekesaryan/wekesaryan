@@ -10,4 +10,7 @@ Hi, I’m wekesa ryan.A full-stack developer with experience in HTML,js,css,scss
 
 socials:
 
-Twitter: https://twitter.com/wekesaryan1    linkedin: https://www.linkedin.com/in/ryan-wekesa254/      
+Twitter: https://twitter.com/wekesaryan1    linkedin: https://www.linkedin.com/in/ryan-wekesa254/ 
+
+My skills set
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,php)](https://skillicons.dev)
