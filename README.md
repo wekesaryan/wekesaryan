@@ -13,4 +13,9 @@ socials:
 Twitter: https://twitter.com/wekesaryan1    linkedin: https://www.linkedin.com/in/ryan-wekesa254/ 
 
 My skills set
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,php)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,kubernetes,docker,c,vim" />
+  </a>
+</p>                    
+  
