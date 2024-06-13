@@ -15,7 +15,7 @@ Twitter: https://twitter.com/wekesaryan1    linkedin: https://www.linkedin.com/i
 My skills set
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,kubernetes,docker,c,c++" />
   </a>
 </p>                    
   
