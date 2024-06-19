@@ -3,7 +3,7 @@
   
 
 Hi, I’m wekesa ryan.A full-stack developer with experience in HTML,js,css,scss,php,react,python and java.
-- 👀 I’m a tech  enthusiastit,Love programming.Currently available for any programming or pen testing releted project collaboration.
+- 👀 I’m a tech  enthusiastic  and security hobbyist,Love programming.Currently available for any programming or pen testing releted project collaboration.
   
 
 
