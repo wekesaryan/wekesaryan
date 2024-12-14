@@ -11,7 +11,7 @@ Hi, I’m wekesa ryan.A full-stack developer with experience in HTML,js,css,scss
 
 
                                  Lets link on my socials:
-Twitter Https://x.com/wekesaryan1    LinkedIn https://linkedin.com/ryan-wekesa254                                 
+Twitter (https://x.com/vex_ryan)    LinkedIn (https://linkedin.com/ryan-wekesa254)                                 
                                         
   
   
