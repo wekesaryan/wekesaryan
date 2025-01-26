@@ -1,4 +1,4 @@
- <center><h1>About Me</h1></center>                                             
+<h1 style="text-align: center;">About Me</h1>                                             
   
   
 
