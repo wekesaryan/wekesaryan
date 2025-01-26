@@ -1,4 +1,4 @@
-  #           ABOUT ME                                         
+ <center><h1>About Me</h1></center>                                             
   
   
 
@@ -18,7 +18,7 @@
                     
   
 
- #        😎😎My skills set                                                                                                                                                                                                        
+ #   My skills set                                                                                                                                                                                                        
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,cs,go,rust,flutter,kotlin,react,solidity,wordpress,anaconda,kubernetes,docker,figma,blender,bash,firebase,mongodb,postgres,mysql" />
