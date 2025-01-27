@@ -10,7 +10,7 @@
 
 
 #        Lets link on my socials
-[Twitter](https://x.com/vex_ryan)  &nbsp;   [LinkedIn](https://linkedin.com/ryan-wekesa254)   &nbsp;   [Bluesky](https://bsky.app/profile/vexryan.bsky.social)                           
+[Twitter](https://x.com/vex_ryan)  &nbsp;   [LinkedIn](https://linkedin.com/ryan-wekesa254)   &nbsp;   [Bluesky](https://bsky.app/profile/vexryan.bsky.social)   &nbsp; [Youtube](https://youtube.com/@thought_torrent)                        
                                         
   
   
