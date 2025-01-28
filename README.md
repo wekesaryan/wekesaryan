@@ -1,12 +1,13 @@
 <h1 style="text-align: center;">About Me</h1>                                             
   
-  
 
-
-- 👀 I’m a tech enthusiast and cyber security hobbyist. Always up for a challenge, let's link and learn together.  
 
 
 ![header](https://github.com/wekesaryan/wekesaryan/assets/113826742/4784760a-f1d6-4d3e-8b24-8b8f30e2ead9)
+
+- 👀 I’m a tech enthusiast and cyber security hobbyist. Always up for a challenge, let's link and learn together.
+- I’m currently working on YouTube and personal projects.
+-  I’m looking to collaborate on YouTube & other open-source projects.
 
 
 #        Lets link on my socials
