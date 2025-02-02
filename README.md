@@ -19,7 +19,7 @@
    [Elon Musk](https://x.com/elonmusk) &nbsp; [Dan Kaminsky](https://x.com/dakami) &nbsp; [Linus Torvalds](https://x.com/Linus__Torvalds) &nbsp; [Vitalik Buterin](https://x.com/VitalikButerin) &nbsp; [Edward Snowden](https://x.com/Snowden)
  
 #       To reach me on my socials
-[Twitter](https://x.com/vex_ryan)  &nbsp;   [LinkedIn](https://linkedin.com/ryan-wekesa254)   &nbsp;   [Bluesky](https://bsky.app/profile/vexryan.bsky.social)   &nbsp; [Youtube](https://youtube.com/@thought_torrent)                        
+[Twitter](https://x.com/vex_ryan)  &nbsp;   [LinkedIn](https://linkedin.com/ryan-wekesa254)   &nbsp;   [Bluesky](https://bsky.app/profile/vexryan.bsky.social)   &nbsp; [Youtube](https://youtube.com/@thought_torrent)    [Discord](https://discord.gg/jEQXeN4aTJ) &nbsp; [Telegram](https://t.me/techtrendskenya)                   
                                         
   
                 
