@@ -16,12 +16,21 @@
 -  Blockchain Developer to design and implement decentralized applications and smart contracts.
 
   ## My Mentors
-   [Elon Musk](https://x.com/elonmusk) &nbsp; [Dan Kaminsky](https://x.com/dakami) &nbsp; [Linus Torvalds](https://x.com/Linus__Torvalds) &nbsp; [Vitalik Buterin](https://x.com/VitalikButerin) &nbsp; [Edward Snowden](https://x.com/Snowden)
+
+|  Name           |   Twitter handle                                |  Role               |
+|-----------------|-------------------------------------------------|---------------------|
+| Elon Musk       | [Elon Musk](https://x.com/elonmusk)             | Bussiness man
+| Dan Kaminsky    | [Dan Kaminsky](https://x.com/dakami)            | Computer Researcher
+| Linus Torvalds  | [Linus Torvalds](https://x.com/Linus__Torvalds) | Founder of Linux
+| Vitalik Buterin | [Vitalik Buterin](https://x.com/VitalikButerin) | Co Founder of Etherum
+| EdwARD snowden  | [Edward Snowden](https://x.com/Snowden)         | Whistle-blower 
  
 ##  My socials
 [Twitter](https://x.com/vex_ryan)  &nbsp;   [LinkedIn](https://linkedin.com/ryan-wekesa254)   &nbsp;   [Bluesky](https://bsky.app/profile/vexryan.bsky.social)   &nbsp; [Youtube](https://youtube.com/@thought_torrent)  &nbsp;  [Discord](https://discord.gg/jEQXeN4aTJ) &nbsp; [Telegram](https://t.me/techtrendskenya)                   
                                         
-  
+<a href="https://x.com/vex_ryan">
+  <img src="images/twitter.svg" alt="Social Media Icon" width="ICON_WIDTH" height="ICON_HEIGHT">
+</a>
                 
   
 
@@ -31,4 +40,9 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,cs,go,rust,flutter,kotlin,react,solidity,wordpress,anaconda,kubernetes,docker,figma,blender,bash,firebase,mongodb,postgres,mysql" />
   </a>
 </p>                    
+
+
+## Let's Connect!
+I'd love to connect with you on social media. Let's chat about Artificial intelligence, Software development, cyber security, and blockchain technology! 💬
+
   
