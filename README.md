@@ -17,19 +17,6 @@
 -  Blockchain Developer to design and implement decentralized applications and smart contracts.
 
 
--------------------------
-
-
-  ## My Mentors
-
-|  Name           |   Twitter handle                                |  Role               |
-|-----------------|-------------------------------------------------|---------------------|
-| Elon Musk       | [Elon Musk](https://x.com/elonmusk)             | Bussiness man
-| Dan Kaminsky    | [Dan Kaminsky](https://x.com/dakami)            | Computer Researcher
-| Linus Torvalds  | [Linus Torvalds](https://x.com/Linus__Torvalds) | Founder of Linux
-| Vitalik Buterin | [Vitalik Buterin](https://x.com/VitalikButerin) | Co Founder of Etherum
-| EdwARD snowden  | [Edward Snowden](https://x.com/Snowden)         | Whistle-blower 
-
 
  -----------------------------
  
