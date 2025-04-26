@@ -37,7 +37,7 @@
   <img src="images/bluesky.svg" alt="BLUESKY" width="60" height="60">
 </a>
 
-<a href="https://youtube.com/@thought_torrent">
+<a href="https://www.youtube.com/channel/UCjzKmnOQPBx15aUY_gG5YBQ">
   <img src="images/YouTube.png" alt="YOUTUBE" width="60" height="60">
 </a>
 
