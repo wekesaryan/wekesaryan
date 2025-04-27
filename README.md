@@ -24,10 +24,8 @@
  
 ## 🌐 Connect With Me
 
-
-I'd love to connect on social media. Let's chat about Artificial intelligence, Software development, cyber security, and blockchain technology! 💬
                  
-                                        
+<p>                                        
 <a href="https://x.com/vex_ryan">
   <img src="images/twitter_x.svg" alt="X formerly TWITTER" width="70" height="50">
 </a>
@@ -53,23 +51,28 @@ I'd love to connect on social media. Let's chat about Artificial intelligence, S
 <a href="https://t.me/techtrendskenya">
   <img src="images/telegram.svg" alt="TELEGRAM" width="70" height="50">
 </a>                
+</p>
+
+I'd love to connect on social media. Let's chat about Artificial intelligence, Software development, cyber security, and blockchain technology! 💬
 
 
-  --------------------------------
+----------------------------------------------
   
 
 # ⚒️My skills-set
 
 ## Cloud Computing
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
 
+
 ## Computer Networking
-<p align="center">
+
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker" alt="" width="70" height="50" />
   </a>
@@ -77,13 +80,14 @@ I'd love to connect on social media. Let's chat about Artificial intelligence, S
 
 ## Cybersecurity
 
+<p>
   <a href="https://www.kali.org/get-kali/">
-    <img src="images/Kali_Linux.svg" alt="Kali Linux" width="70" height="50" />
+    <img src="images/kali_Linux.svg" alt="Kali Linux" width="70" height="50" />
   </a>
 
 
   <a href="https://parrotsec.org/download/">
-    <img src="images/ParrotOS.svg" alt="Parrot OS" width="70" height="50" />
+    <img src="images/ParrotOS.svg" alt="Parrot OS" width="70" height="50"  />
   </a>
 
 
@@ -95,36 +99,35 @@ I'd love to connect on social media. Let's chat about Artificial intelligence, S
  <a href="https://www.metasploit.com/download">
     <img src="images/metasploit.svg" alt="Metasploit Framework" width="70" height="50" />
   </a>
-
+</p>
 
 
 ## Graphics Design (Part time)
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,figma" />
   </a>
-
+</p>
 
 
 ## Operating Systems
-
+<p>
   <a href="https://www.linux.org/">
     <img src="images/linux.svg" alt="Linux" width="70" height="50" />
   </a>
-
 
   <a href="https://www.microsoft.com/en-us/software-download/windows11">
     <img src="images/windows.svg" alt="Microsoft Windows" width="70" height="50" />
   </a>
 
-
   <a href="https://www.android.com/">
     <img src="images/android.svg" alt="Google Android" width="70" height="50" />
   </a>
-
+</p>
 
 
 ## Software Development
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,cs,go,rust,flutter,kotlin,react,solidity,anaconda,bash,firebase,mongodb,postgres,mysql" />
   </a>
